@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content id="MainContent" guid="b8c8886d-1ab1-49fb-864d-42a50411d2aa" height="840" width="1450" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Widgets>
+    <Widget xsi:type="widgets.brease.Image" id="Image1" top="60" left="840" width="510" height="699" zIndex="0" image="Media/RobotRysunek.png" />
+  </Widgets>
+</Content>
