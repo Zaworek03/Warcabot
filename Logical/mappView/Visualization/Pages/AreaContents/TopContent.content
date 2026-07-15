@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Content id="TopContent" guid="f9d847c9-348c-42c5-8257-222eb49dbacd" height="60" width="1600" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:types="http://www.br-automation.com/iat2015/widgetTypes/v2">
-  <Widgets></Widgets>
+<Content id="TopContent" guid="f9d847c9-348c-42c5-8257-222eb49dbacd" height="60" width="1600" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Widgets>
+    <Widget xsi:type="widgets.brease.Image" id="Image1" top="20" left="680" width="80" height="40" zIndex="0" image="Media/Flag/Flag_of_Poland.svg" />
+    <Widget xsi:type="widgets.brease.Image" id="Image2" top="20" left="760" width="80" height="40" zIndex="1" image="Media/Flag/Flag_of_the_United_Kingdom.svg" />
+  </Widgets>
 </Content>

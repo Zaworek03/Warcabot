@@ -4,5 +4,6 @@
   <Objects>
     <Object Type="File">RobotRysunek.png</Object>
     <Object Type="Package">SymbolLib</Object>
+    <Object Type="Package">Flag</Object>
   </Objects>
 </Package>
