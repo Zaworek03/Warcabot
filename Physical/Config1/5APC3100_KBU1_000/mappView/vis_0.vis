@@ -3,16 +3,20 @@
   <StartPage pageRefId="Main" />
   <Pages>
     <Page refId="Main" />
+    <Page refId="PageAdmin" />
   </Pages>
   <Navigations />
   <BindingsSets />
-  <EventBindingsSets />
+  <EventBindingsSets>
+    <EventBindingsSet refId="ContentAdmin" />
+  </EventBindingsSets>
   <EventScriptsSets />
   <Dialogs />
   <Contents>
     <Content refId="TopContent" />
     <Content refId="LeftContent" />
     <Content refId="MainContent" />
+    <Content refId="ContentAdmin" />
   </Contents>
   <SnippetsSets />
   <VariablesSets />

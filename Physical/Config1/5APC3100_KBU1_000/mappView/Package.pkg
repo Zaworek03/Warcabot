@@ -4,5 +4,6 @@
   <Objects>
     <Object Type="File">Config.mappviewcfg</Object>
     <Object Type="File">vis_0.vis</Object>
+    <Object Type="File">ContentAdmin.eventbinding</Object>
   </Objects>
 </Package>
