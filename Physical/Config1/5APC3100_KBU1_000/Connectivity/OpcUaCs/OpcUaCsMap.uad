@@ -11,5 +11,6 @@
     <GlobalVariables Name="Global Variables">
       <Variable Name="gTest" />
     </GlobalVariables>
+    <Task Name="TestOpcua" />
   </Module>
 </OpcUaSource>
