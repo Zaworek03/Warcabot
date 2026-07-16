@@ -3,6 +3,7 @@
   <StartPage pageRefId="Main" />
   <Pages>
     <Page refId="Main" />
+    <Page refId="Manual" />
   </Pages>
   <Navigations />
   <BindingsSets />
@@ -13,13 +14,18 @@
     <Content refId="TopContent" />
     <Content refId="LeftContent" />
     <Content refId="MainContent" />
+    <Content refId="ManualKartezjanskiTytulContent" />
+    <Content refId="ManualJointNazwaContent" />
+    <Content refId="ManualKartezjankiContent" />
+    <Content refId="ManualJointContent" />
+    <Content refId="ManualInfoContent" />
   </Contents>
   <SnippetsSets />
   <VariablesSets />
   <ExpressionsSets />
   <Configurations>
-		<Configuration key="activityCount" value="false" />
-		<Configuration key="zoom" value="true"/>
+    <Configuration key="activityCount" value="false" />
+    <Configuration key="zoom" value="true" />
     <Gestures>
       <!--<SystemGesture1 touchPoints="2" />
 		  <SystemGesture2 touchPoints="2" />

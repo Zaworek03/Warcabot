@@ -1,0 +1,9 @@
+
+VAR
+	gRobotJog    : MpGroupJog;
+	gRobotJogPar : MpGroupJogParType;
+END_VAR
+
+VAR CONSTANT
+
+END_VAR
