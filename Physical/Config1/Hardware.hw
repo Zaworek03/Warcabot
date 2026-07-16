@@ -26,7 +26,6 @@
       <Parameter ID="AssignedOperatingSystem" Value="ARemb" />
     </Connector>
     <Parameter ID="ConfigurationID" Value="warcabot_Config1" />
-    <Parameter ID="Simulation" Value="1" />
     <Group ID="FileDevice1" />
     <Parameter ID="FileDeviceName1" Value="USER" />
     <Parameter ID="FileDevicePath1" Value="USER_PATH" />
@@ -47,7 +46,7 @@
       <Cable Type="PowerlinkCable" Length="10" Version="1.0.0.3" />
     </Connection>
   </Module>
-  <Module Name="VSS112Q22.042P-000" Type="VSS112Q22.042P-000" Version="1.11.0.929" NodeNumber="3">
+  <Module Name="VSS112Q22.042P-000" Type="VSS112Q22.042P-000" Version="1.11.0.929">
     <Connection Connector="PLK1" TargetModule="DriveQ1-Q3-Q5_Racer3_1" TargetConnector="PLK2">
       <Cable Type="PowerlinkCable" Length="10" Version="1.0.0.3" />
     </Connection>
