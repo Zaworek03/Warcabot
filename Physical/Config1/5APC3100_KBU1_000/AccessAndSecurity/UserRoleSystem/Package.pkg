@@ -3,7 +3,11 @@
 <Package SubType="UserRoleSys" PackageType="UserRoleSys" xmlns="http://br-automation.co.at/AS/Package">
   <Objects>
     <Object Type="File">BRRole.brrole</Object>
+<<<<<<< HEAD
     <Object Type="File">Role.role</Object>
     <Object Type="File">User.user</Object>
+=======
+    <Object Type="File">Engineer.user</Object>
+>>>>>>> origin/uruchamianie-robota
   </Objects>
 </Package>

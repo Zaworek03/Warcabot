@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Configuration>
+  <Element ID="Engineer" Type="User">
+    <Property ID="Password" Value="$argon2id$v=19$m=512,t=70,p=1$KBasW5u42EgN$rg76aSRojOft5vlGzAtoqo1/ES0qMg4eHrwFHcLes8E" />
+    <Group ID="Roles">
+      <Property ID="Role[1]" Value="BR_Engineer" />
+    </Group>
+  </Element>
+</Configuration>

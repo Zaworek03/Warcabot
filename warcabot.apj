@@ -7,8 +7,13 @@
   <Motion RestartAcoposParameter="true" RestartInitParameter="true" />
   <Variables DefaultInitValue="0" DefaultRetain="false" DefaultVolatile="true" />
   <TechnologyPackages>
+<<<<<<< HEAD
     <mappMotion McDriveLog="6.7.2" Version="6.7.2" />
     <mappServices Version="6.7.1" />
+=======
+    <mappCockpit Version="6.7.0" />
+    <mappMotion McAcpDrv="6.7.2" McAcpSim="6.7.2" McAcpSys="6.7.2" McDriveLog="6.7.2" McMechSys="6.7.2" McProfGen="6.7.2" Version="6.7.2" />
+>>>>>>> origin/uruchamianie-robota
     <mappView Version="6.7.0" />
     <OpcUaCs Version="6.7.0" />
   </TechnologyPackages>
