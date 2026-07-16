@@ -10,6 +10,10 @@
   <Module Name="&lt;Default&gt;">
     <GlobalVariables Name="Global Variables">
       <Variable Name="gTest" />
+      <Variable Name="gBoard" />
+      <Variable Name="gCzyjaTura" />
+      <Variable Name="gGraStart" />
+      <Variable Name="gJakiKolor" />
     </GlobalVariables>
     <Task Name="TestOpcua" />
   </Module>
