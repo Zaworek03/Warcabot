@@ -2,7 +2,7 @@
 <?AutomationStudio FileVersion="4.9"?>
 <BR.AS.HardwareTopology>
   <TimeStamps>
-    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="07/16/2026 10:12:42" />
+    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="07/16/2026 09:39:20" />
   </TimeStamps>
   <Modules>
     <Module Name="5APC3100_KBU1_000" Type="5APC3100.KBU1-000" X="182" Y="118" />
@@ -53,7 +53,7 @@
       <Point X="878" Y="130" />
       <Point X="878" Y="130" />
     </Link>
-    <Link From="VSS112Q22.042P-000" To="DriveQ2-Q4-Q6_Racer3_1" FromPort="PLK2" ToPort="PLK1" IsRoutedByUser="False">
+    <Link From="DriveQ2-Q4-Q6_Racer3_1" To="VSS112Q22.042P-000" FromPort="PLK1" ToPort="PLK2" IsRoutedByUser="False">
       <Point X="923" Y="130" />
       <Point X="923" Y="130" />
       <Point X="923" Y="135" />

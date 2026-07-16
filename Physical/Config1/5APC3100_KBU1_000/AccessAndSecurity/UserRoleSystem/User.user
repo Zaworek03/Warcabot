@@ -7,4 +7,13 @@
       <Property ID="Role[1]" Value="DefaultRole" />
     </Group>
   </Element>
+  <Element ID="Security" Type="User">
+    <Property ID="Password" Value="$argon2id$v=19$m=512,t=70,p=1$KspE1zOaZ7Rj$NbQ6SIGMkYWYtO5REpA5l7s5Xj2yCdaI3qrIpv9qhBo" />
+    <Group ID="Roles">
+      <Property ID="Role[1]" Value="BR_SecurityAdmin" />
+      <Property ID="Role[2]" Value="BR_SafetyAdmin" />
+      <Property ID="Role[3]" Value="BR_Engineer" />
+      <Property ID="Role[4]" Value="DefaultRole" />
+    </Group>
+  </Element>
 </Configuration>
