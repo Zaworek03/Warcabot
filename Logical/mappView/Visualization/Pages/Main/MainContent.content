@@ -4,6 +4,5 @@
     <Widget xsi:type="widgets.brease.Image" id="ImgRobot" top="20" left="780" width="660" height="799" zIndex="0" image="Media/RobotRysunek.png" />
     <Widget xsi:type="widgets.brease.Label" id="TytulLb" top="40" left="40" width="700" height="100" zIndex="1" text="Warcbot" textAlign="center" fontSize="80px" style="Title1" />
     <Widget xsi:type="widgets.brease.Label" id="Label1" top="140" left="80" width="600" height="420" zIndex="2" text="Jakis tam opis robota itp" textAlign="left top" />
-    <Widget xsi:type="widgets.brease.NavigationButton" id="NavigationButton1" top="260" left="280" zIndex="3" pageId="PageAdmin" text="NavigationButton1" />
   </Widgets>
 </Content>

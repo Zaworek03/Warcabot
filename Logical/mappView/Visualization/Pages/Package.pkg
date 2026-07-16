@@ -4,6 +4,6 @@
   <Objects>
     <Object Type="Package" Description="AreaContents">AreaContents</Object>
     <Object Type="Package">Main</Object>
-    <Object Type="Package">PageAdmin</Object>
+    <Object Type="Package">SettingsPage</Object>
   </Objects>
 </Package>
