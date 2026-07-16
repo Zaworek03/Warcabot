@@ -10,7 +10,7 @@
     <Object Type="Package">TextSystem</Object>
     <Object Type="Package">UnitSystem</Object>
     <Object Type="Package">AccessAndSecurity</Object>
-    <Object Type="Package">mappMotion</Object>
+    <Object Type="File">mappMotion</Object>
     <Object Type="Package">mappServices</Object>
     <Object Type="Package">mappView</Object>
     <Object Type="Package">mappCockpit</Object>
@@ -19,6 +19,6 @@
     <AutomationRuntime Version="6.7.6" />
     <Build GccVersion="11.3.0" />
     <DefaultTargetMemory Tasks="UserROM" />
-    <Transfer />
+    <Transfer AddToUserPart="False" AllowDowngrade="False" AllowInitialTransfer="False" AllowPartitioning="False" ExecuteInitExitProgram="True" ForceInitialTransfer="False" IgnoreVersion="True" KeepNonVolatileMemory="False" PreserveVariableValues="False" ProjectConsistent="False" RebootDuringTransfer="True" TargetIdentificationType="Always" TryToBootInRunMode="False" UserFilesIgnoreDifference="True" />
   </Configuration>
 </Cpu>

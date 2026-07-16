@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Configuration>
+  <Element ID="Admin" Type="User">
+    <Property ID="Password" Value="$argon2id$v=19$m=512,t=70,p=1$MnN1ISV/OVJz$nrhiC7d/CAtlZ9FgmNH5Dxxmc8SQtowuDcp30cR2HLM" />
+    <Group ID="Roles">
+      <Property ID="Role[1]" Value="Administrator" />
+    </Group>
+  </Element>
+  <Element ID="Oper" Type="User">
+    <Property ID="Password" Value="$argon2id$v=19$m=512,t=70,p=1$dSm6WK2whXEB$uhCa6dc5OJ/wYTQM/UfcYeOA1DJy1Q2BhqAAPJVSRGw" />
+    <Group ID="Roles">
+      <Property ID="Role[1]" Value="Operator" />
+    </Group>
+  </Element>
+</Configuration>
